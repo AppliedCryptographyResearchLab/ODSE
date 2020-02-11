@@ -1,6 +1,6 @@
 # Oblivious Dynamic Searchable Encryption (ODSE) Framework
 
-This framework contains the basic implementation of three ODSE schemes described [here](https://content.iospress.com/articles/journal-of-computer-security/jcs191300) and [here](https://link.springer.com/chapter/10.1007/978-3-319-95729-6_8) (free version [here](https://eprint.iacr.org/2017/1158). Each ODSE scheme is implemented individually and separately. This project is built on [CodeLite IDE](http://codelite.org). It is recommended to install CodeLite to load the full ODSE workspaces. 
+This framework contains the basic implementation of three ODSE schemes described [here](https://content.iospress.com/articles/journal-of-computer-security/jcs191300) and [here](https://link.springer.com/chapter/10.1007/978-3-319-95729-6_8) (free version [here](https://eprint.iacr.org/2017/1158)). Each ODSE scheme is implemented individually and separately. This project is built on [CodeLite IDE](http://codelite.org). It is recommended to install CodeLite to load the full ODSE workspaces. 
 
 
 # Required Libraries
